@@ -39,6 +39,6 @@ docker run -d -p 8081:8081 --name nexus sonatype/nexus3
 ```
   -Copy till bash
 ## Step-8: Login into Nexus Server
-
-
+User - admin
+Password - from step 7
 
